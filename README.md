@@ -1,11 +1,11 @@
 # Hey, ik ben [Jouw Naam]! 👋
 
 Welkom op mijn GitHub profiel!  
-Ik ben een **[jouw functie/rol, bijvoorbeeld: softwareontwikkelaar]** met een passie voor [je interesses, bijvoorbeeld: webontwikkeling, data-analyse, etc.]. Hier deel ik mijn persoonlijke projecten, bijdragen en technische experimenten.
+Ik ben een **Software Developer** met een passie voor webontwikkeling. Hier deel ik mijn persoonlijke projecten, bijdragen en technische experimenten.
 
 ## 🔧 Technologieën & Vaardigheden
 
-- **Programmeertalen:** HTML, CSS, JavaScript]
+- **Programmeertalen:** HTML, CSS, JavaScript
 - **Frameworks & Tools:** React
 
 ## 🚀 Projecten & Highlights
@@ -16,7 +16,7 @@ Hieronder een greep uit mijn projecten:
 - **[Projectnaam 2](link-naar-repository):** Nog een kort overzicht van dit project.
 - **[Projectnaam 3](link-naar-repository):** Beschrijf hier je derde highlight.
 
-Meer projecten vind je in mijn [repositories](https://github.com/JOUW_GITHUB_NAAM?tab=repositories).
+Meer projecten vind je in mijn [repositories](https://github.com/Danielo923?tab=repositories).
 
 ## 📊 GitHub Stats
 
