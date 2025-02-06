@@ -20,7 +20,7 @@ Meer projecten vind je in mijn [repositories](https://github.com/JOUW_GITHUB_NAA
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielo928&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielo923&show_icons=true&theme=default)
 
 ## 🌐 Connect & Volg Mij
 
