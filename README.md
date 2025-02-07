@@ -14,7 +14,7 @@ Hieronder een greep uit mijn projecten:
 
 - **[FE-Rookie-Eind-Project](https://github.com/Danielo923/FE-Rookie-Eind-Project):** Korte beschrijving van wat dit project doet.
 - **[One-Punch-Man-leaderboard](https://github.com/Danielo923/One-Punch-Man-leaderboard):** Nog een kort overzicht van dit project.
-- **[HelpGPT]([link-naar-repository](https://github.com/Danielo923/HelpGPT)):** Beschrijf hier je derde highlight.
+- **[HelpGPT](https://github.com/Danielo923/HelpGPT):** Beschrijf hier je derde highlight.
 
 Meer projecten vind je in mijn [repositories](https://github.com/Danielo923?tab=repositories).
 
@@ -26,8 +26,7 @@ Meer projecten vind je in mijn [repositories](https://github.com/Danielo923?tab=
 
 ## 🌐 Connect & Volg Mij
 
-- **LinkedIn:** [Jouw LinkedIn](https://www.linkedin.com/in/jouw-profiel)
-- **Twitter:** [@jouwTwitter](https://twitter.com/jouwTwitter)
+- **LinkedIn:** [Fabio Salvador](https://www.linkedin.com/in/fabio-salvador-b5345834b/)
 
 ## ✨ Fun Facts & Hobby's
 
