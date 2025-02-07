@@ -29,7 +29,7 @@ Meer projecten vind je in mijn [repositories](https://github.com/Danielo923?tab=
 
 ## ✨ Fun Facts & Hobby's
 
-- Ik ben gek op [bijv. reizen, muziek, fotografie] en probeer dit vaak te combineren met mijn werk.
+- Ik ben gek op muziek en probeer dit vaak te combineren met mijn werk.
 - Quote die mij inspireert: *"Je mist 100% van de kansen die je niet neemt."* – Wayne Gretzky
 
 ---
