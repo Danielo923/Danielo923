@@ -28,11 +28,6 @@ Meer projecten vind je in mijn [repositories](https://github.com/Danielo923?tab=
 
 - **LinkedIn:** [Fabio Salvador](https://www.linkedin.com/in/fabio-salvador-b5345834b/)
 
-## ✨ Fun Facts & Hobby's
-
-- Ik ben gek op muziek en probeer dit vaak te combineren met mijn werk.
-- Quote die mij inspireert: *"Je mist 100% van de kansen die je niet neemt."* – Wayne Gretzky
-
 ---
 
 Voel je vrij om contact met me op te nemen of een kijkje te nemen in mijn repositories. Veel plezier met browsen!
